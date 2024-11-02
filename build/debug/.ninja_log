@@ -1,0 +1,6 @@
+# ninja log v5
+4	274	7522726952669492	CMakeFiles/EmptyTest.dir/Src/main.c.obj	6b8bb06e7868d248
+10	336	7522726953156232	CMakeFiles/EmptyTest.dir/Src/sysmem.c.obj	28f67356971c7427
+275	418	7522726954298562	CMakeFiles/EmptyTest.dir/Startup/startup_stm32f411ceux.s.obj	92738fbc83644422
+8	430	7522726954437634	CMakeFiles/EmptyTest.dir/Src/syscall.c.obj	2a621d12994b0b74
+431	757	7522726956523626	EmptyTest.elf	63e741dc53101a83
